@@ -51,7 +51,7 @@ article {
 
 /* 背景色・文字色 */
 #profile {
-    background-color: #7fffd4;
+    background-color: #e6e6fa;
     color: #191970;
 }
 
@@ -128,3 +128,4 @@ th {
 ol li {
     list-style-type: upper-roman;
 }
+
